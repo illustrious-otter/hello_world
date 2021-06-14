@@ -25,3 +25,5 @@ my $doo = 1E34;
 
 Here is math $ x + y = \int_a^b \sin(x) dx$
 
+[linky](./About.md)
+
