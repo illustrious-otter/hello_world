@@ -1,7 +1,0 @@
-theme: jekyll-theme-midnight
-title: "Hoo Ba Doo Ba"
-
-navigation:
-  - {title: "Blog", file: "blog.md"}
-  - {title: "About", file: "About.md"}
-  
